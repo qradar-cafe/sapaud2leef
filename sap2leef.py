@@ -1,3 +1,6 @@
+#This script is a proof of concept about the integration of a SAP AUD log file into QRadar.
+#This script is not supported and it has not got maintenance. 
+
 from datetime import datetime
 import re
 
