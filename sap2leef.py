@@ -1,5 +1,10 @@
-#This script is a proof of concept about the integration of a SAP AUD log file into QRadar.
-#This script is not supported and it has not got maintenance. 
+'''
+This script is a proof of concept about the integration of a SAP AUD log file into QRadar.
+This script is not supported and it has not got maintenance. 
+Based on this articles:
+http://document1133.rssing.com/chan-17060333/all_p9.html
+https://blogs.sap.com/2014/12/11/analysis-and-recommended-settings-of-the-security-audit-log-sm19-sm20/
+'''
 
 from datetime import datetime
 import re
